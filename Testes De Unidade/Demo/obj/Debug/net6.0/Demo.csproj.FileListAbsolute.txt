@@ -1,0 +1,12 @@
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\bin\Debug\net6.0\Demo.dll
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\bin\Debug\net6.0\Demo.pdb
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.dll
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\Demo.pdb
+C:\DominandoOsTestesDeSoftware\Testes De Unidade\Demo\obj\Debug\net6.0\ref\Demo.dll
