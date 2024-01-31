@@ -1,0 +1,12 @@
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\bin\Debug\net8.0\DemoTestes.deps.json
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\bin\Debug\net8.0\DemoTestes.dll
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\bin\Debug\net8.0\DemoTestes.pdb
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.AssemblyInfoInputs.cache
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.AssemblyInfo.cs
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.csproj.CoreCompileInputs.cache
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.sourcelink.json
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.dll
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\refint\DemoTestes.dll
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\DemoTestes.pdb
+C:\DominandoOsTestesDeSoftware\TestesDeUnidade\DemoTestes\obj\Debug\net8.0\ref\DemoTestes.dll
